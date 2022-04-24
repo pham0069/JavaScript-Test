@@ -1,0 +1,5 @@
+npm init
+npm install mocha chai --save-dev
+all test must be put under a directory named 'test'
+npm script test: "mocha" => will run all files under this dir
+run test
